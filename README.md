@@ -6,9 +6,9 @@
 
 ### 😊 O que você vai encontrar:
 
-<p align="left">O projeto em questão apresenta um código que converte entradas strings de usuários em números inteiros ou float</p>
+<p align="left">O projeto em questão apresenta um código que converte entradas strings de usuários em números inteiros ou float.</p>
 
-<p align="left"> Esse projeto foi realizado no curso de Data Science com Python da Let's Code from Ada</p>
+<p align="left"> Esse projeto foi realizado no curso de Data Science com Python da Let's Code from Ada em parceria com a Suzano.</p>
 
 
 ### 🛠 Tecnologias
