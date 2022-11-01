@@ -1,12 +1,15 @@
 <h1 align="center">Projeto Let's Code</h1>
 
 <h2 align="center">
-	"Vem dar uma olhadinha no meu projeto conversor de números!"
+	Vem dar uma olhadinha no meu projeto conversor de números!
 </h2>
 
 ### 😊 O que você vai encontrar:
 
-<p align="left">O projeto em questão apresenta um código que converte entradas strings de usuários em números inteiros ou float.</p>
+<p align="left">O projeto em questão apresenta um código que converte entradas strings de usuários em números inteiros ou float. </p>
+<p> Exemplo: 
+	input: Um milhão trezentos e vinte e cinco mil quinhentos e trinta e dois
+	output: 1325532 </p>
 
 <p align="left"> Esse projeto foi realizado no curso de Data Science com Python da Let's Code from Ada em parceria com a Suzano.</p>
 
