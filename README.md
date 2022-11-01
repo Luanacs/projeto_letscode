@@ -8,8 +8,8 @@
 
 <p align="left">O projeto em questão apresenta um código que converte entradas strings de usuários em números inteiros ou float. </p>
 <p> Exemplo:</p> 
-	- input: Um milhão trezentos e vinte e cinco mil quinhentos e trinta e dois
-	- output: 1325532 
+<p> input: Um milhão trezentos e vinte e cinco mil quinhentos e trinta e dois</p>
+<p> output: 1325532 </p> 
 
 <p align="left"> Esse projeto foi realizado no curso de Data Science com Python da Let's Code from Ada em parceria com a Suzano.</p>
 
